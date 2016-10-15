@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "module": "es6",
+    "moduleResolution": "node",
+    "target": "es6"
+  },
+  "files": [
+    "typings/index.d.ts",
+    "src/index.tsx"
+  ]
+}
